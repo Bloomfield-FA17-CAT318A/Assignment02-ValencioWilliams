@@ -4,7 +4,7 @@
 ## Second Heading
 ### Third Heading
 
-[Blockquote]
+>Blockquote
 
 **BOLD**
 
@@ -12,13 +12,10 @@
 
 ***BOLD and Italic***
 
-1. Unordered List
-
-*One
-
-*Two
-
-*Three
+Unordered List
+* One
+* Two
+* Three
     
 Ordered List
 1. Uno
